@@ -92,7 +92,7 @@
 
 /* User Card */
 .user-card {
-  background-color: rgba(220, 220, 220, 0.3); /* light transparent grey */
+  background-color: rgba(220, 220, 220, 0.3); 
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -124,7 +124,7 @@
   color: #555;
 }
 
-/* Responsive adjustment for the last user */
+
 .user-card:last-child {
-  margin-bottom: 50px; /* ensures padding at bottom */
+  margin-bottom: 50px; 
 }
